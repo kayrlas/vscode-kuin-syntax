@@ -1,0 +1,191 @@
+{
+    "kuin@Class": {
+        "prefix": "kuin@Class",
+        "body": [
+            "kuin@Class"
+        ],
+        "description": "Code snippet for class kuin@Class"
+    },
+    "kuin@Class.cmp": {
+        "prefix": "kuin@Class.cmp",
+        "body": [
+            "kuin@Class.cmp(t: kuin@Class)"
+        ],
+        "description": "Code snippet for func cmp(t, kuin@Class): int"
+    },
+    "kuin@Class.ctor": {
+        "prefix": "kuin@Class.ctor",
+        "body": [
+            "kuin@Class.ctor()"
+        ],
+        "description": "Code snippet for func ctor()"
+    },
+    "kuin@Class.toStr": {
+        "prefix": "kuin@Class.toStr",
+        "body": [
+            "kuin@Class.toStr()"
+        ],
+        "description": "Code snippet for func toStr(): []char"
+    },
+    "lib@BmSearch": {
+        "prefix": "lib@BmSearch",
+        "body": [
+            "lib@BmSearch"
+        ],
+        "description": "Code snippet for class lib@BmSerch"
+    },
+    "lib@BmSearch.find": {
+        "prefix": "lib@BmSearch.find",
+        "body": [
+            "lib@BmSearch.find(text: []char, start: int)"
+        ],
+        "description": "Code snippet for func find(text: []char, start: int): int"
+    },
+    "lib@Bool": {
+        "prefix": "lib@Bool",
+        "body": [
+            "lib@Bool"
+        ],
+        "description": "Code snippet for class lib@Bool"
+    },
+    "lib@Bool.value": {
+        "prefix": "lib@Bool.value",
+        "body": [
+            "lib@Bool.value"
+        ],
+        "description": "Code snippet for lib@Bool.value"
+    },
+    "lib@Char": {
+        "prefix": "lib@Char",
+        "body": [
+            "lib@Char"
+        ],
+        "description": "Code snippet for class lib@Char"
+    },
+    "lib@Char.value": {
+        "prefix": "lib@Char.value",
+        "body": [
+            "lib@Char.value"
+        ],
+        "description": "Code snippet for lib@Char.value"
+    },
+    "lib@Float": {
+        "prefix": "lib@Float",
+        "body": [
+            "lib@Float"
+        ],
+        "description": "Code snippet for class lib@Float"
+    },
+    "lib@Float.value": {
+        "prefix": "lib@Float.value",
+        "body": [
+            "lib@Float.value"
+        ],
+        "description": "Code snippet for lib@Float.value"
+    },
+    "lib@Int": {
+        "prefix": "lib@Int",
+        "body": [
+            "lib@Int"
+        ],
+        "description": "Code snippet for class lib@Int"
+    },
+    "lib@Int.value": {
+        "prefix": "lib@Int.value",
+        "body": [
+            "lib@Int.value"
+        ],
+        "description": "Code snippet for lib@Int.value"
+    },
+    "lib@Rnd": {
+        "prefix": "lib@Rnd",
+        "body": [
+            "lib@Rnd"
+        ],
+        "description": "Code snippet for class lib@Rnd"
+    },
+    "lib@Rnd.rnd": {
+        "prefix": "lib@Rnd.rnd",
+        "body": [
+            "lib@Rnd.rnd(min: int, max: int)"
+        ],
+        "description": "Code snippet for func rnd(min: int, max: int): int"
+    },
+    "lib@Rnd.rndBit64": {
+        "prefix": "lib@Rnd.rndBit64",
+        "body": [
+            "lib@Rnd.rndBit64()"
+        ],
+        "description": "Code snippet for func rndBit64(): bit64"
+    },
+    "lib@Rnd.rndFloat": {
+        "prefix": "lib@Rnd.rndFloat",
+        "body": [
+            "lib@Rnd.rndFloat(min: float, max: float)"
+        ],
+        "description": "Code snippet for func rndFloat(min: float, max: float): float"
+    },
+    "lib@Str": {
+        "prefix": "lib@Str",
+        "body": [
+            "lib@Str"
+        ],
+        "description": "Code snippet for class lib@Str"
+    },
+    "lib@Str.value": {
+        "prefix": "lib@Str.value",
+        "body": [
+            "lib@Str.value"
+        ],
+        "description": "Code snippet for lib@Str.value"
+    },
+    "lib@acos": {
+        "prefix": "lib@acos",
+        "body": [
+            "lib@acos(x: float)"
+        ],
+        "description": "Code snippet for func acos(x: float): float"
+    },
+    "lib@acosh": {
+        "prefix": "lib@acosh",
+        "body": [
+            "lib@acosh(x: float)"
+        ],
+        "description": "Code snippet for func acosh(x: float): float"
+    },
+    "lib@asin": {
+        "prefix": "lib@asin",
+        "body": [
+            "lib@asin(x: float)"
+        ],
+        "description": "Code snippet for func asin(x: float): float"
+    },
+    "lib@asinh": {
+        "prefix": "lib@asinh",
+        "body": [
+            "lib@asinh(x: float)"
+        ],
+        "description": "Code snippet for func asinh(x: float): float"
+    },
+    "lib@atan": {
+        "prefix": "lib@atan",
+        "body": [
+            "lib@atan(x: float)"
+        ],
+        "description": "Code snippet for func atan(x: float): float"
+    },
+    "lib@atanh": {
+        "prefix": "lib@atanh",
+        "body": [
+            "lib@atanh(x: float)"
+        ],
+        "description": "Code snippet for func atanh(x: float): float"
+    },
+    "lib@ceil": {
+        "prefix": "lib@ceil",
+        "body": [
+            "lib@ceil(x: float)"
+        ],
+        "description": "Code snippet for func ceil(x: float): float"
+    }
+}
